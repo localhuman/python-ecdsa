@@ -41,6 +41,7 @@ t/
 .mr.developer.cfg
 .project
 .pydevproject
+.idea
 
 # Backup files
 *.swp
